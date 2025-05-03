@@ -81,8 +81,8 @@ git push origin feature/your-feature-name
 
 Feel free to reach out for questions or suggestions:
 
-**Maintainer:** [Your Name]  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Maintainer:** Syed Rizvi 
+**Email:** mohsinrizvi.dgk@gmail.com 
+**GitHub:** [@SyedRizvi](https://github.com/MaddyRizvi)
 
 Happy collaborating! 🎉
